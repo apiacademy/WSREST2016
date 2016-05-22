@@ -1,3 +1,5 @@
+![](http://mamund.site44.com/images/2016-05-21-wsrest-header.png)
+
 # WS-REST 2016
 
 GitHub repository for the [WS-REST 2016](http://ws-rest.org/2016/) event at the [16th International Conference on Web Engineering (ICWE 2016)](http://icwe2016.webengineering.org/) in Lugano, Switzerland, on June 9th, 2016.
